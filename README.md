@@ -9,6 +9,7 @@ Hi, I'm Trung!<br>I'm currently pursing Bachelor's degree in Data Science and Co
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=TrungNguyen-ybidh&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=TrungNguyen-ybidh&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=TrungNguyen-ybidh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 ## 🏆 GitHub Trophies
