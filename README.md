@@ -1,6 +1,5 @@
 # 💫 About Me:
-Hi, I'm Trung!<br>I'm a third year at Northeastern University<br>I major in Data Science and minor in Computer Engineering<br>I love Fencing and doing other sports
-
+Hi, I'm Trung!<br>I'm currently pursing Bachelor's degree in Data Science and Computer Engineering at Northeastern University. I specialize in analytical thinking, problem solving with Python, and Microsoft Office 365. I am fluent in Vietnamese and English. I'm motivated to apply my abilities in dynamic contexts and contribute to distinctive approaches.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/hideonw/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/trung-nguyen-973646248/) 
