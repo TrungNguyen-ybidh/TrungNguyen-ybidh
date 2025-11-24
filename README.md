@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Trung!<br>I'm currently pursing Bachelor's degree in Data Science and Computer Engineering at Northeastern University. I specialize in analytical thinking, problem solving with Python, and Microsoft Office 365. I am fluent in Vietnamese and English. I'm motivated to apply my abilities in dynamic contexts and contribute to distinctive approaches.
+Hi, I'm Trung!<br>I'm currently pursing Bachelor's degree in Data Science and Computer Engineering at Northeastern University. I specialize in analytical thinking, problem solving with Python, and Microsoft Office 365. I am fluent in Vietnamese and English. I'm motivated to apply my abilities in dynamic contexts and contribute to distinctive approaches. I'm currently working on **I'm currently working on quant trading model, strageties, reasearching pattern, machine learning. And also, learning about financial market, investing and exploring about alll different typr of market, finanicel, taxes
 
 
 # 💻 Tech Stack:
