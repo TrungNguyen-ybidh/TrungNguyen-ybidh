@@ -1,22 +1,32 @@
-# 💫 About Me:
-Hi, I'm Trung!<br>I'm currently pursing Bachelor's degree in Data Science and Computer Engineering at Northeastern University. I specialize in analytical thinking, problem solving with Python, and Microsoft Office 365. I am fluent in Vietnamese and English. I'm motivated to apply my abilities in dynamic contexts and contribute to distinctive approaches. I'm currently working on **I'm currently working on quant trading model, strageties, reasearching pattern, machine learning. And also, learning about financial market, investing and exploring about alll different typr of market, finanicel, taxes
+# Trung Nguyen
 
-
-# 💻 Tech Stack:
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/TrungNguyen-ybidh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="TrungNguyen-ybidh" height="30" width="40" /></a>
-<a href="[www.linkedin.com/in/trung-nguyen-973646248](https://www.linkedin.com/in/trung-nguyen-973646248/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/trung-nguyen-973646248/" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/anaconda" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=anaconda" alt="anaconda" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/azure" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=azure" alt="azure" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/figma" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/flask" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flask" alt="flask" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/jupyter" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/matplotlib" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/numpy" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pandas" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pytorch" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=pytorch" alt="pytorch" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/scikit_learn" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=scikitlearn" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/seaborn" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/streamlit" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" alt="streamlit" width="40" height="40"/> </a></p>
-
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=TrungNguyen-ybidh&limit=5&theme=dark&combine_all_yearly_contributions=true)
+**Data Science** · Northeastern University  
+Building at the intersection of quantitative finance and machine learning.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=TrungNguyen-ybidh&icon=0&color=12)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+Passionate about quantitative finance — researching patterns, building trading models, and studying financial markets through data and machine learning.
+
+### What I'm focused on
+
+- Quantitative trading models & strategy research  
+- Financial data warehousing (S&P 500, NYSE, NASDAQ)  
+- Machine learning for market pattern recognition  
+- Financial market structure & macroeconomic analysis
+
+### Stack
+
+**Languages** · Python · SQL  
+**Data & ML** · Pandas · NumPy · Scikit-learn · PyTorch · Matplotlib · Seaborn  
+**Infrastructure** · MySQL · Docker · Git · Azure · Anaconda  
+**Tools** · Jupyter · Streamlit · Flask · Figma · Bloomberg Terminal
+
+### Links
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/trung-nguyen-973646248/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/TrungNguyen-ybidh)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=safari&logoColor=white)](https://imtrungnguyen.net)
+
+---
+
+<sub>Fluent in Vietnamese & English.</sub>
